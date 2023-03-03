@@ -2,7 +2,7 @@ import React from "react"
 import type { Metadata } from "next"
 
 export const metadata: Metadata = {
-  title: "Get To Know Me | Hosna Qasmei",
+  title: "Get To Know Me | Yousef Abdelkhaleq",
   description: "Welcome to get to know me",
 }
 
@@ -33,11 +33,7 @@ export default function AboutPage() {
           nature.
         </p>
         <p className="mb-2 text-neutral-800">
-          They are not fixed, but rather constantly in flux, with one dominating
-          the other in a constant cycle of balance. The idea that two opposing
-          forces can exist in balance with each other resonates deeply with me,
-          especially as I&#39;ve come to understand the duality of my own
-          personality (being a Gemini).
+        Emotional, intuitive, and practically psychic; ruled by the moon and characterized by the crab, Cancer has so much going on in its watery depths. Cancer signs may seem prickly and standoffish at first meeting, once they make the decision to become friends with someone, that person has a friend for life..
         </p>
 
         <p className="mb-2 text-neutral-800">

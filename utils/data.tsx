@@ -346,7 +346,7 @@ export const RESOURCES = [
 
 export const SOCIALS_DARK = [
   {
-    link: "https://github.com/hqasmei",
+    link: "https://github.com/dewedeth",
     icon: (
       <AiOutlineGithub
         className="cursor-pointer text-neutral-500 transition-transform hover:-translate-y-1 hover:text-neutral-600 "
@@ -355,7 +355,7 @@ export const SOCIALS_DARK = [
     ),
   },
   {
-    link: "https://twitter.com/hqasmei",
+    link: "https://twitter.com/mingwingsys",
     icon: (
       <AiOutlineTwitter
         className="cursor-pointer text-neutral-500 transition-transform hover:-translate-y-1  hover:text-neutral-600"
@@ -364,7 +364,7 @@ export const SOCIALS_DARK = [
     ),
   },
   {
-    link: "https://www.linkedin.com/in/hosnaqasmei/",
+    link: "https://www.linkedin.com/in/yousef-abdelkhaleq-56524953/",
     icon: (
       <AiOutlineLinkedin
         className="cursor-pointer text-neutral-500 transition-transform  hover:-translate-y-1 hover:text-neutral-600"
@@ -373,7 +373,7 @@ export const SOCIALS_DARK = [
     ),
   },
   {
-    link: "https://www.youtube.com/channel/UCQBMkSDgbxDb8usMeXmOZyA",
+    link: "https://www.youtube.com/channel/UC-4vfrHc6KcDRbLk7m_Fgrw",
     icon: (
       <AiOutlineYoutube
         className="cursor-pointer text-neutral-500 transition-transform  hover:-translate-y-1 hover:text-neutral-600"
@@ -385,7 +385,7 @@ export const SOCIALS_DARK = [
 
 export const SOCIALS = [
   {
-    link: "https://github.com/hqasmei",
+    link: "https://github.com/dewedeth",
     icon: (
       <AiOutlineGithub
         className="cursor-pointer text-white transition-transform hover:-translate-y-1 "
@@ -394,7 +394,7 @@ export const SOCIALS = [
     ),
   },
   {
-    link: "https://www.youtube.com/channel/UCQBMkSDgbxDb8usMeXmOZyA",
+    link: "https://www.youtube.com/channel/UC-4vfrHc6KcDRbLk7m_Fgrw",
     icon: (
       <AiOutlineYoutube
         className="cursor-pointer text-white transition-transform hover:-translate-y-1"
@@ -403,7 +403,7 @@ export const SOCIALS = [
     ),
   },
   {
-    link: "https://twitter.com/hqasmei",
+    link: "https://twitter.com/mingwingsys",
     icon: (
       <AiOutlineTwitter
         className="cursor-pointer text-white transition-transform hover:-translate-y-1"
@@ -412,7 +412,7 @@ export const SOCIALS = [
     ),
   },
   {
-    link: "https://www.linkedin.com/in/hosnaqasmei/",
+    link: "https://www.linkedin.com/in/yousef-abdelkhaleq-56524953/",
     icon: (
       <AiOutlineLinkedin
         className="cursor-pointer text-white transition-transform hover:-translate-y-1"

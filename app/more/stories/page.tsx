@@ -2,7 +2,7 @@ import React from "react"
 import type { Metadata } from "next"
 
 export const metadata: Metadata = {
-  title: "Stories | Hosna Qasmei",
+  title: "Stories | Yousef Abdelkhaleq",
   description: "Here are some of my stories",
 }
 

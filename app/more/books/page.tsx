@@ -3,7 +3,7 @@ import type { Metadata } from "next"
 import Image from "next/image"
 
 export const metadata: Metadata = {
-  title: "Books | Hosna Qasmei",
+  title: "Books | Yousef Abdelkhaleq",
   description: "Here are some books",
 }
 

@@ -21,9 +21,9 @@ export default function AboutPage() {
           </div>
           <div className="text-neutral-100 md:mt-2 md:w-1/2">
             <p className="text-lg leading-7 ">
-              Hi, my name is <span className="font-semibold">Hosna Qasmei</span>
-              ! I am a software engineer and developer based in{" "}
-              <span className="font-semibold">Los Angeles, CA.</span>
+              Hi, my name is <span className="font-semibold">Yousef Abdelkhaleq</span>
+              ! I am a freelance and developer based in{" "}
+              <span className="font-semibold">Jacksonville, FL.</span>
             </p>
             <br />
             <p className="text-lg leading-7">

@@ -5,7 +5,7 @@ import MoreNavbar from "@/components/Navbar/MoreNavbar"
 import Footer from "@/components/Footer/Footer"
 
 export const metadata: Metadata = {
-  title: "About Me | Hosna Qasmei",
+  title: "About Me | Yousef Abdelkhaleq",
   description: "Welcome to my portfolio",
 }
 

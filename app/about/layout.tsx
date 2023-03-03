@@ -5,7 +5,7 @@ import Navbar from "@/components/Navbar/Navbar"
 import Footer from "@/components/Footer/Footer"
 
 export const metadata: Metadata = {
-  title: "About | Hosna Qasmei",
+  title: "About | Yousef Abdelkhaleq",
   description: "Welcome to my about",
 }
 
