@@ -28,7 +28,7 @@ export default function Home()
       <main className="mx-auto min-h-screen text-left">
         <div className="px-8 py-12 sm:px-28 md:px-64 md:py-52">
           <h1 className="pb-4 text-4xl font-bold text-white md:text-6xl">
-            Yousef Abdelkhaleq.
+            dewedeth.
           </h1>
           <p className="text-xl font-semibold text-white md:pb-1 md:text-3xl">
             Freelance developer and web content creator.
